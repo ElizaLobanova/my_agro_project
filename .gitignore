@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+.venv
+__pycache__
+agro_data_db
+gemini_debug.log
+.vscode
